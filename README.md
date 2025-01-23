@@ -20,3 +20,6 @@ This repo contains the basic code to understand and simulate the consistent hash
 #### The data assigned to it is moved to the next adjacent available server.
 
 
+### See a demo
+
+#### Clone the repo and run the python script ConsistentHashing.py 
